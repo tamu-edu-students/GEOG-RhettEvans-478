@@ -6,5 +6,5 @@
 | [week04](homework/week04/README.md) | [week04](lab/week04/README.md) | |
 | [week05](homework/week05/README.md) | [week05](lab/week05/README.md) | |
 | [week06](homework/week06/README.md) | [week06](lab/week06/README.md) | |
-| [week07](homework/week07/README.md) | [week07](lab/week07/HichartsTempsRhettEvansWebgis478.html) | |
+| [week07](homework/week07/README.md) | [week07](lab/week07/HichartsTempsRhettEvansWebgis478) | |
 | [week08](homework/week08/README.md) | [week08](lab/week08/README.md) | |
